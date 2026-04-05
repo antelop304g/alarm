@@ -1,10 +1,12 @@
-# Alarm
+# MoveCarGuard
 
-Android default SMS app that escalates parking-enforcement SMS alerts by matching configured keywords such as `闽AF1234`.
+MoveCarGuard is an Android default SMS app focused on urgent move-car / parking-enforcement reminders.
+
+It escalates parking-enforcement SMS alerts by matching configured keywords such as `闽AF1234`.
 
 ## 中文说明
 
-这是一个自用型 Android 默认短信 App，用来降低错过“抄牌挪车短信”的风险。
+MoveCarGuard（挪车短信卫士）是一个自用型 Android 默认短信 App，用来降低错过“抄牌挪车短信”的风险。
 
 - App 会申请成为默认短信应用。
 - 收到短信后会写入系统短信数据库，并在会话列表中展示。
